@@ -78,7 +78,7 @@ export default function Hero() {
         {/* Stats row */}
         <div className="mt-20 lg:mt-32 grid grid-cols-2 lg:grid-cols-4 gap-px bg-ink/8 border hairline animate-fade-up" style={{ animationDelay: "0.9s", opacity: 0 }}>
           {[
-            { value: "05", label: "Áreas de serviço", note: "Núcleo de competências" },
+            { value: "05", label: "Áreas de actuação", note: "Núcleo de competências" },
             { value: "100%", label: "Compromisso", note: "Com a qualidade entregue" },
             { value: "MZ", label: "Capital nacional", note: "Sediados em Maputo" },
             { value: "E.I.", label: "Empresa individual", note: "Estrutura legal" },

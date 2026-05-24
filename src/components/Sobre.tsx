@@ -37,19 +37,19 @@ export default function Sobre() {
             </p>
             <div className="grid sm:grid-cols-2 gap-8 pt-8 border-t hairline">
               <div>
-                <h4 className="text-[11px] uppercase tracking-[0.2em] text-gold font-medium mb-3">
+                <h4 className="text-[13px] uppercase tracking-[0.2em] text-gold font-medium mb-3">
                   O que fazemos
                 </h4>
-                <p className="text-sm leading-relaxed text-ink/75">
-                  Prestamos serviços em consultoria empresarial, formação profissional, abertura e regularização de empresas, planos de negócios e procurement & logística.
+                <p className="text-[14px] leading-relaxed text-ink/75">
+                  Prestamos serviços em consultoria empresarial, formação profissional, abertura e regularização de empresas, planos de negócios, procurement & logística.
                 </p>
               </div>
               <div>
-                <h4 className="text-[11px] uppercase tracking-[0.2em] text-gold font-medium mb-3">
+                <h4 className="text-[13px] uppercase tracking-[0.2em] text-gold font-medium mb-3">
                   O nosso diferencial
                 </h4>
-                <p className="text-sm leading-relaxed text-ink/75">
-                  Trabalhamos com rigor, qualidade e cumprimento de prazos, com uma equipa multidisciplinar de engenharia, direito, contabilidade e gestão.
+                <p className="text-[14px] leading-relaxed text-ink/75">
+                  Trabalhamos com rigor, qualidade e cumprimento de prazos, com uma equipa multidisciplinar em áreas tais como engenharia, direito, contabilidade e gestão.
                 </p>
               </div>
             </div>

@@ -26,7 +26,7 @@ const competencias = [
     icon: Calculator,
     titulo: "Contabilidade",
     texto:
-      "Peritos contabilísticos para gestão financeira, auditoria e planeamento fiscal.",
+      "Peritos em contabilidade, gestão financeira, auditoria e planeamento fiscal.",
   },
   {
     icon: Briefcase,
@@ -120,18 +120,27 @@ export default function Equipa() {
               Cremildo Cossa
             </h3>
           </div>
-          <div className="lg:col-span-4 space-y-2 relative">
+          <div className="lg:col-span-4 relative flex flex-col items-start gap-2">
             <a
-              href="mailto:cremildocossa@icloud.com"
+              href="mailto:carmindo1998@gmail.com"
               className="block text-sm text-bone/80 hover:text-gold transition-colors link-underline"
             >
-              cremildocossa@icloud.com
+              carmindo1998@gmail.com
             </a>
             <a
               href="tel:+258823710375"
               className="block text-sm text-bone/80 hover:text-gold transition-colors link-underline tabular"
             >
               +258 82 371 0375
+            </a>
+            <p className="text-sm text-bone/45">
+              ou
+            </p>
+            <a
+              href="tel:+258868888148"
+              className="block text-sm text-bone/80 hover:text-gold transition-colors link-underline tabular"
+            >
+              +258 86 888 8148
             </a>
           </div>
         </div>
