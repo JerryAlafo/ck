@@ -122,25 +122,25 @@ export default function Equipa() {
           </div>
           <div className="lg:col-span-4 relative flex flex-col items-start gap-2">
             <a
-              href="mailto:carmindo1998@gmail.com"
+              href="mailto:ckservicesconsulting@gmail.com"
               className="block text-sm text-bone/80 hover:text-gold transition-colors link-underline"
             >
-              carmindo1998@gmail.com
+              ckservicesconsulting@gmail.com
             </a>
-            <a
-              href="tel:+258823710375"
-              className="block text-sm text-bone/80 hover:text-gold transition-colors link-underline tabular"
-            >
-              +258 82 371 0375
-            </a>
-            <p className="text-sm text-bone/45">
-              ou
-            </p>
             <a
               href="tel:+258868888148"
               className="block text-sm text-bone/80 hover:text-gold transition-colors link-underline tabular"
             >
               +258 86 888 8148
+            </a>
+            <p className="text-sm text-bone/45">
+              ou
+            </p>
+            <a
+              href="tel:+258823710375"
+              className="block text-sm text-bone/80 hover:text-gold transition-colors link-underline tabular"
+            >
+              +258 82 371 0375
             </a>
           </div>
         </div>

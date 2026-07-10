@@ -11,7 +11,7 @@ import {
   Building2,
 } from "lucide-react";
 
-const CONTACT_EMAIL = "carmindo1998@gmail.com";
+const CONTACT_EMAIL = "ckservicesconsulting@gmail.com";
 
 export default function Contacto() {
   const [form, setForm] = useState({ nome: "", email: "", empresa: "", mensagem: "" });
@@ -59,7 +59,7 @@ export default function Contacto() {
             {/* Contact details */}
             <div className="mt-16 space-y-px bg-bone/10">
               {[
-                { icon: Phone, label: "Telefone", value: "+258 82 371 0375", href: "tel:+258823710375" },
+                { icon: Phone, label: "Telefone", value: "+258 86 888 8148", href: "tel:+258868888148" },
                 { icon: Mail, label: "Email", value: CONTACT_EMAIL, href: `mailto:${CONTACT_EMAIL}` },
                 { icon: MapPin, label: "Localização", value: "Maputo, Moçambique", href: null },
               ].map((c) => {
